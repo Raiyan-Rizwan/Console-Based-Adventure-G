@@ -1,0 +1,24 @@
+BIRD
+a water bird
+1
+
+CHEST
+a pirate chest
+2
+
+BOOK
+a copy of an illuminated manuscript
+3
+
+COMPANION_TROLL
+Troll that asks riddles and is your companion
+4
+
+TICTACTOE_TROLL
+troll that plays tic tac toe with you
+3
+
+SNAKEGAME_TROLL
+A snakegame troll
+2
+
